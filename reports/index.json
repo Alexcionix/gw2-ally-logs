@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260714-162837-yyxf",
+      "title": "C L A P P",
+      "commanders": [
+        "C L A P P"
+      ],
+      "dateStart": "2026-07-14T20:28:37.000Z",
+      "dateEnd": "2026-07-14T21:01:05.000Z",
+      "dateLabel": "7/14/2026, 4:28:37 PM - 7/14/2026, 5:01:05 PM",
+      "url": "https://Alexcionix.github.io/gw2-ally-logs/?report=20260714-162837-yyxf",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260713-155315-xg1d",
       "title": "C L A P P",
       "commanders": [
