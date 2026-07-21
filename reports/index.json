@@ -78,29 +78,6 @@
       }
     },
     {
-      "id": "20260710-232508-4xwc",
-      "title": "Mainesnowx",
-      "commanders": [
-        "Mainesnowx"
-      ],
-      "dateStart": "2026-07-11T03:25:08.000Z",
-      "dateEnd": "2026-07-11T04:07:21.000Z",
-      "dateLabel": "7/10/2026, 11:25:08 PM - 7/11/2026, 12:07:21 AM",
-      "url": "https://Alexcionix.github.io/gw2-ally-logs/?report=20260710-232508-4xwc",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 27,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 12,
-        "avgEnemySize": 54
-      }
-    },
-    {
       "id": "20260707-151306-hwp6",
       "title": "C L A P P",
       "commanders": [
