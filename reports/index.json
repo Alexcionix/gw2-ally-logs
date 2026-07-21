@@ -123,28 +123,6 @@
         "avgEnemySize": 21
       }
     },
-    {
-      "id": "20260703-233809-eq0j",
-      "title": "Xxmaine",
-      "commanders": [
-        "Xxmaine"
-      ],
-      "dateStart": "2026-07-04T03:38:09.000Z",
-      "dateEnd": "2026-07-04T04:19:38.000Z",
-      "dateLabel": "7/3/2026, 11:38:09 PM - 7/4/2026, 12:19:38 AM",
-      "url": "https://alexcionix.github.io/gw2-ally-logs/?report=20260703-233809-eq0j",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 17,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 20,
-        "avgEnemySize": 34
-      }
     }
   ]
 }
